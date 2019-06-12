@@ -10,8 +10,6 @@ int main(){
     int *numbarray;
     int length;
 
-
-
     WriteRandomData(filename);
 
     length=CalcDataLength(filename);
